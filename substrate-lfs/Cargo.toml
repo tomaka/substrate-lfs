@@ -6,4 +6,6 @@ description = "Large File Storage for Substrate"
 edition = "2018"
 
 [dependencies]
+futures01 = "0.1"
 libp2p = "0.12.0"
+log = "0.4"
